@@ -2,7 +2,7 @@
 
 A collection of targeted academic and independent projects demonstrating data engineering, classical machine learning, and generative AI architectures focused on business operations, risk automation, and workflow efficiency.
 
-This portfolio is structured for AI Engineer, Agents & Experimentation roles, with emphasis on:
+
 
 - **Operational impact:** reducing manual review effort and accelerating business decisions.
 - **Efficiency and automation:** routing repetitive work through AI/ML systems.
