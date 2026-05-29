@@ -433,19 +433,3 @@ Weekly human capital recovered: 1,600 minutes (~26.7 hours)
 By decoupling workloads, high-cost language models are reserved for contextual reasoning tasks such as RAG and HR feedback, while low-latency classical ML is used for classification and anomaly detection. This keeps computational spend optimized while preserving business impact.
 
 ---
-
-## 7. Role Alignment: AI Engineer, Agents & Experimentation
-
-This portfolio demonstrates the technical and operational skills needed to build practical AI systems:
-
-- **Agent design:** LLM-powered workflows for resume intelligence and compliance support.
-- **Experimentation mindset:** Evaluation across precision, F1-score, latency, cost, and ROI.
-- **Automation:** Reusable engines that reduce repetitive manual review.
-- **Risk analytics:** Fraud triage using anomaly detection and threshold-based alerting.
-- **Enterprise readiness:** FastAPI, Docker concepts, SQL pipelines, vector search, and structured outputs.
-- **Business translation:** Clear linkage between model behavior and operational decision-making.
-
-## Closing Summary
-
-These four projects show a consistent engineering pattern: identify a manual bottleneck, select the right AI or ML technique, design a measurable workflow, and translate model output into a business action. The result is a portfolio focused not only on technical implementation, but also on operational efficiency, automation ROI, and experiment-driven AI development.
-
